@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+
+  [[main]]
+  name = "Games"
+  weight = 200
+  identifier = "games"
+  url = "/games/"
+
+  [[main]]
+  name = "Store"
+  weight = 300
+  identifier = "store"
+  url = "/store/"
+
+  [[main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+  [[main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
