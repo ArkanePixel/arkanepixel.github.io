@@ -59,10 +59,25 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 #title = "Linkedin"
 #url = "https://de.linkedin.com/"
 
-#[[socialIcons]]
-#icon = "fab fa-github"
-#title = "GitHub"
-#url = "https://github.com/lxndrblz/anatole/"
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/ArkanePixe62551"
+
+[[socialIcons]]
+icon = "fab fa-facebook"
+title = "Facebook"
+url = "https://www.facebook.com/profile.php?id=61550667723779"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/ArkanePixel"
+
+[[socialIcons]]
+icon = "fab fa-unity"
+title = "Unity"
+url = "https://assetstore.unity.com/publishers/90417"
 
 #[[socialIcons]]
 #icon = "fab fa-instagram"
